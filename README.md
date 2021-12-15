@@ -1,4 +1,4 @@
-# ApplianceClassification
+# Appliance Classification
 
 ### Citation
 
